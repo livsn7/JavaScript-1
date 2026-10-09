@@ -1,0 +1,20 @@
+/*
+11. Determine o valor de x após a
+execução das operações de incremento
+e decremento:
+*/
+
+let x = 5;
+x++;
+x++;
+x--;
+
+console.log(x);
+
+
+/*
+A) 5
+B) 6 (correta)
+C) 7
+D) 4
+*/
