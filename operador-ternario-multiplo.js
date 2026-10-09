@@ -5,4 +5,4 @@ let statusReserva = (reservaConfirmada && quartosDisponiveis > 0) ? "Reserva con
                 :  (quartosDisponiveis > 0) ? "Aguardando confirmação"
                 :   "Sem quartos disponiveis";
 
-console.log(statusReserva); // Saída: "Reserva confirmada"
+console.log(statusReserva); // Saída: "Reserva confirmada"l

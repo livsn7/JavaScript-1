@@ -7,4 +7,4 @@ while (resultadoDado !== 6) {
     console.log(`Lancamento ${lancamentos}: Resultado do dado: ${resultadoDado}`);
 
 }
-console.log(`Finalmente! O número 6 foi obtido após ${Lancamentos} lançamentos.`);
+console.log(`Finalmente! O número 6 foi obtido após ${Lancamentos} lançamentos.`); 
